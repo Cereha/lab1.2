@@ -1,0 +1,7 @@
+﻿  CROMlab1.cpp
+C:\Users\korob\source\repos\CROMlab1\CROMlab1\CROMlab1.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korob\source\repos\CROMlab1\CROMlab1\CROMlab1.cpp(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korob\source\repos\CROMlab1\CROMlab1\CROMlab1.cpp(232,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korob\source\repos\CROMlab1\CROMlab1\CROMlab1.cpp(252,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korob\source\repos\CROMlab1\CROMlab1\CROMlab1.cpp(317,18): warning C4018: <=: несоответствие типов со знаком и без знака
+  CROMlab1.vcxproj -> C:\Users\korob\source\repos\CROMlab1\Debug\CROMlab1.exe
